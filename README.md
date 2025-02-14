@@ -1,4 +1,4 @@
-# myproject1
+# Vocabulary
 A web application that helps users improve their vocabulary by providing word definitions, examples, and interactive learning tools.
 
 🚀 Features
